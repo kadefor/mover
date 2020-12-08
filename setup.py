@@ -9,6 +9,5 @@ setup(
     description=('Mover'),
     url='https://www.v2ex.com/go/python',
     author='Livid',
-    author_email='livid@v2ex.com',
-    install_requires=['arrow', 'gntp']
+    author_email='livid@v2ex.com'
 )
